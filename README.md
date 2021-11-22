@@ -2,9 +2,25 @@
 
 ## Problem Statement
 
-## Input Description
+Write a program that meets the following requirements:
 
-## Sample Input/Output
+1. Create a string variable called `myQuote`.
+2. Initialize the variable so that it contains your favorite quote (at least five words).
+3. Using one line of code, display the statement `"My quote is: "` followed by your quote.
+4. Using one line of code, display the statement: `"The second half of my quote is: "` followed by the second half of your quote.
+5. Using one line of code, display the statement: `"The first five characters of my quote are: "` followed by the first five characters of your quote.
+6. Using one line of code, display the last third of your quote followed by the middle third followed by the first third.
+
+Test your program using several different quotes of different lengths. Your program should work regardless of the length of the quote without any changes other than the variable.
+
+## Sample Output
+
+```
+My quote is: Computer Science is no more about computers than astronomy is about telescopes.
+The second half of my quote is: ters than astronomy is about telescopes.
+The first five characters of my quote are: Compu
+ronomy is about telescopes.e about computers than astronomy is about telescopes.Computer Science is no mor
+```
 
 ## Submission
 
