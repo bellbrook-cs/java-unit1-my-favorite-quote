@@ -18,7 +18,8 @@ Test your program using several different quotes of different lengths. Your prog
 ```
 My quote is: Computer Science is no more about computers than astronomy is about telescopes.
 The second half of my quote is: ters than astronomy is about telescopes.
-The first five characters of my quote are: Compuronomy is about telescopes.e about computers than astComputer Science is no mor
+The first five characters of my quote are: Compu
+ronomy is about telescopes.e about computers than astComputer Science is no mor
 ```
 
 ## Submission
